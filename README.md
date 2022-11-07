@@ -1,4 +1,4 @@
-# Multiple_Regression_Lasso_Regression
+# Multiple Regression Lasso Regression
 + Intro to Deep Learning project in TensorFlow 2.x and Python
 + Advanced implementation of regression modelling techniques like lasso regression in TensorFlow
 
